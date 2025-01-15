@@ -1,6 +1,6 @@
-# TALKITDOIT - DevOps AI Agent Team 🤖
+# DevOps AI Agent Team 🤖
 
-Welcome to the talkitdoit project! This repository contains a team of AI agents that help automate and enhance your DevOps workflow. These agents work together to handle various DevOps tasks including code review, build prediction, and infrastructure management.
+Welcome to the DevOps AI Agent Team project! This repository contains a team of AI agents that help automate and enhance your DevOps workflow. These agents work together to handle various DevOps tasks including code review, build prediction, and infrastructure management.
 
 ## 🌟 Features
 
