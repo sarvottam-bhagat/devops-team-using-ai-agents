@@ -80,8 +80,8 @@ brew install python@3.13
 brew install --cask docker
 
 # Clone the repository
-git clone https://github.com/talkitdoit/build-a-devops-team-using-ai-agents.git
-cd build-a-devops-team-using-ai-agents
+git clone https://github.com/sarvottam-bhagat/devops-team-using-ai-agents.git
+cd devops-team-using-ai-agents
 
 # Create and activate virtual environment
 python3.13 -m venv venv
@@ -101,8 +101,8 @@ pip install -r requirements.txt
 # Download from https://www.docker.com/products/docker-desktop
 
 # Clone the repository
-git clone https://github.com/talkitdoit/build-a-devops-team-using-ai-agents.git
-cd build-a-devops-team-using-ai-agents
+git clone https://github.com/sarvottam-bhagat/devops-team-using-ai-agents.git
+cd devops-team-using-ai-agents
 
 # Create and activate virtual environment
 python -m venv venv
@@ -127,8 +127,8 @@ sudo systemctl enable docker
 sudo usermod -aG docker $USER
 
 # Clone the repository
-git clone https://github.com/talkitdoit/build-a-devops-team-using-ai-agents.git
-cd build-a-devops-team-using-ai-agents
+git clone https://github.com/sarvottam-bhagat/devops-team-using-ai-agents.git
+cd devops-team-using-ai-agents
 
 # Create and activate virtual environment
 python3.13 -m venv venv
